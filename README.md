@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://polite-river-0310d6300.2.azurestaticapps.net/
-**project demo link** -
+**project demo link** -https://youtu.be/8JT7oDBO-Cs
 
 ## Screenshots
 
